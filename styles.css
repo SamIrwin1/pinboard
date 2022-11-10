@@ -89,7 +89,7 @@ div.sticker {
   left: 1350px } 
 
 .bkg {
-  background-image: url(file:///C:/Users/spirw/OneDrive/Desktop/homepage/images/cork-board.png);
+  background-image: src= image/cork-board.png;
   min-height: 1100px;}
 
 
